@@ -14,5 +14,9 @@
   "scripts": {
     "station2:prettier": "prettier -c ./src/station2.html",
     "serve": "lite-server"
+  },
+  "volta": {
+    "node": "20.11.0",
+    "yarn": "1.22.21"
   }
 }
